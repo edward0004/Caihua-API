@@ -1,0 +1,18 @@
+exports.port={
+	production:53037,
+	sandbox:59999
+};
+exports.logdir='/Applications/XAMPP/xamppfiles/htdocs/NodeJs/huohuaAPI/log/';
+exports.db={
+	user:'root',
+	pass:'4637261',//caihsaQQsa17YSDdzC
+	collection:'huohua'
+};
+exports.appkey={
+	1:'9d6a8f62cee9bf930b9e0563312d7144',
+	2:'b79457de1be124f0847ad38361239354'
+};
+exports.img={
+	url:'http://img.huohua.tv:214/',
+	savePath:'/Applications/XAMPP/xamppfiles/htdocs/caiHuaCP/hhu/'
+};
